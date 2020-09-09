@@ -6,6 +6,12 @@ public interface BytesKeyGenerator {
      *
      * @return
      */
-    byte[] genKey();
+
+    int getKeyLength();
+    /**
+     *
+     * @return
+     */
+    byte[] generateKey();
 
 }

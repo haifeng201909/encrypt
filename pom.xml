@@ -8,5 +8,13 @@
     <artifactId>encrypt</artifactId>
     <version>1.0.0</version>
 
+    <dependencies>
+        <!-- commons-codec工具包 -->
+        <dependency>
+            <groupId>commons-codec</groupId>
+            <artifactId>commons-codec</artifactId>
+            <version>1.6</version>
+        </dependency>
+    </dependencies>
 
 </project>

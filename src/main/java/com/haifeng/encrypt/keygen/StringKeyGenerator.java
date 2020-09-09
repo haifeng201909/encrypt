@@ -6,6 +6,6 @@ public interface StringKeyGenerator {
      *
      * @return
      */
-    String genKey();
+    String generateKey();
 
 }
